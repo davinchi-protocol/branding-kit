@@ -1,0 +1,15 @@
+[
+  {
+    "title": "DaVinci Mainnet",
+    "url": "https://rpc-checkpoint.davinci.bz",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg",
+    "isActive": true
+},
+{
+    "title": "DaVinci Validator",
+    "url": "https://validator-explorer.davinci.bz",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg"
+  }
+]
