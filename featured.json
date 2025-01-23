@@ -1,14 +1,20 @@
 [
   {
-    "title": "DaVinci Mainnet",
-    "url": "https://rpc-checkpoint.davinci.bz",
+    "title": "DaVinci Explorer",
+    "url": "https://mainnet-explorer.davinci.bz",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg",
+    "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo-network/davinci-logo-newbrand.svg",
     "isActive": true
 },
-{
-    "title": "DaVinci Validator",
+  {
+    "title": "Validator Explorer",
     "url": "https://validator-explorer.davinci.bz",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg"
+  },
+  {
+    "title": "Staking Validator",
+    "url": "https://dashboard.davinci.bz",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg"
   }
